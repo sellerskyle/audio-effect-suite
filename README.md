@@ -10,5 +10,5 @@ Utility: Based on Ableton's Utility plugin
 
 W I D E P U T I N: A stereo widener plugin
 
-
+Filter: A first order filter to play with constant parameters and observe FFT effect
     
