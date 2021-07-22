@@ -11,8 +11,7 @@ A simple delay / echo plugin
 Mixing utility plugin based on Ableton's Utility plugin
 
 <h3>W I D E P U T I N</h3>
-A stereo widener plugin, based on the [wide putin meme](https://www.youtube.com/watch?v=VQ7lKPSUc2g&ab_channel=FlobySop64)
-[link to Google!](http://google.com) 
+A stereo widener plugin, based on the wide putin meme
 
 <h3>Filter</h3>
 A first order filter to play with constant parameters and observe FFT effect, used for self education.
